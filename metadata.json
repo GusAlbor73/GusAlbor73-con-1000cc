@@ -1,0 +1,6 @@
+{
+  "name": "1000cc Biker",
+  "description": "Conecta motociclistas de alta cilindrada con proveedores de servicios mecánicos, grúas y auxilio vial en tiempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
